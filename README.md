@@ -1,8 +1,4 @@
 
-# Todo
-
-An Todo-List application 
-
 ## Topic covered 
 
 ### AndroidView
@@ -100,5 +96,5 @@ dependencies {
         modifier = Modifier.fillMaxSize()
     )
 
-### card
+
 
